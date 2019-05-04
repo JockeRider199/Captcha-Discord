@@ -1,0 +1,24 @@
+{
+  "name": "captcha-bot",
+  "version": "1.0.0",
+  "description": "Génère un captcha discord lorsqu'un nouvel utilisateur rentre dans le serveur.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JockeRider199/Captcha-Discord.git"
+  },
+  "author": "JockeRider199",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JockeRider199/Captcha-Discord/issues"
+  },
+  "homepage": "https://github.com/JockeRider199/Captcha-Discord#readme",
+  "dependencies" : {
+    "discord.js" : "11.4.2",
+    "ms" : "2.1.1",
+    "fs" : "0.0.1-security"
+  }
+}
