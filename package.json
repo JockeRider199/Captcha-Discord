@@ -16,9 +16,12 @@
     "url": "https://github.com/JockeRider199/Captcha-Discord/issues"
   },
   "homepage": "https://github.com/JockeRider199/Captcha-Discord#readme",
-  "dependencies" : {
-    "discord.js" : "11.4.2",
-    "ms" : "2.1.1",
-    "fs" : "0.0.1-security"
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "lowdb": "^1.0.0",
+    "moment": "^2.24.0",
+    "ms": "^2.1.1",
+    "svg-captcha": "^1.4.0"
   }
 }

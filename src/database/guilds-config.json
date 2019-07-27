@@ -1,0 +1,7 @@
+{
+  "guildID": {
+    "channel": "ID",
+    "role": "ID",
+    "logs": "ID"
+  }
+}
